@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello
+
+:woman_technologist: I'm an Architect with experience in :cloud: Cloud, :infinity: DevSecOps, :shipit: Enterprise Architecture , and 🚀 Modernization initiatives. 
+
+:pushpin: Passionate about solution architecture and designing scalable, secure, and efficient systems. :sparkles:
+
+🇧🇷 Brazilian | :paw_prints: Dog person | :pirate_flag: One Piece fan | :nail_care: Woman in Tech :space_invader:
 
 <!--
 **luucilia/luucilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
